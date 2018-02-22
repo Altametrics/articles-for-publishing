@@ -1,0 +1,16 @@
+---
+layout: detail_article
+
+date: Y-02-22
+type: article
+sponsor:
+featured: true
+category:         
+
+author: Linda Lillibridge
+author_url: 
+headline: sample head
+subheadline: sample subhead
+
+---
+<p>One of the reasons many home cooks shy away from fish is they just are not comfortable cooking it. Maybe you've had the experience of an expensive fillet sticking to your pan and falling apart in little chunks. Or you can't seem to achieve the delicious and delicate flavor that you get in so many restaurant fish dishes. Or the thought of cooking a whole fish, eyeballs and all, is unnerving. Whatever the reason you fear fish, we are here to help. Here are our favorite fish recipes to get you started on two servings of fish per week.&nbsp;</p>
