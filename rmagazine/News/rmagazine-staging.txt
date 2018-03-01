@@ -1,7 +1,7 @@
 ---
 layout: detail_news
 
-date: Y-02-27
+date: Y-03-01
 type: article
 sponsor:
 featured: true
@@ -9,14 +9,14 @@ category: Leadership
 
 author:  
 author_url: 
-headline: Dunkin
+headline: Dunkin' Donuts to Eliminate Foam Cups Worldwide in 2020
 subheadline: New double-walled paper cups to phase into U.S. restaurants beginning spring 2018
 
-image_1_name: article_photo_49344_transition-to-a-restaurant-manager-with-success
-image_1_caption: article_photo_49344_transition-to-a-restaurant-manager-with-success
-image_1_img: article_photo_49344_transition-to-a-restaurant-manager-with-success.jpg
-image_1_alt: article_photo_49344_transition-to-a-restaurant-manager-with-success
-image_1_title: article_photo_49344_transition-to-a-restaurant-manager-with-success
+image_1_name: article_photo_56687_transition-to-a-restaurant-manager-with-success-copy-copy
+image_1_caption: article_photo_56687_transition-to-a-restaurant-manager-with-success-copy-copy
+image_1_img: article_photo_56687_transition-to-a-restaurant-manager-with-success-copy-copy.jpg
+image_1_alt: article_photo_56687_transition-to-a-restaurant-manager-with-success-copy-copy
+image_1_title: article_photo_56687_transition-to-a-restaurant-manager-with-success-copy-copy
 ---
 <p class="p1">As part of its commitment to serve both people and the planet responsibly, Dunkin' Donuts, a leading retailer of hot, brewed coffee, today announced plans to eliminate all polystyrene foam cups in its global supply chain beginning in spring 2018, with a targeted completion date of 2020. In U.S. restaurants, Dunkin' Donuts will replace the foam cup with a new, double-walled paper cup. The majority of Dunkin' Donuts' international markets are currently using paper cups, and the brand will work with its franchisees to eliminate foam cups from the remaining international markets by the 2020 goal.</p>
 <p class="p2">&nbsp;</p>
