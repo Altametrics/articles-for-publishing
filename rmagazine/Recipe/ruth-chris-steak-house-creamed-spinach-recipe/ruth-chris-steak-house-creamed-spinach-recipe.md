@@ -21,7 +21,7 @@ preparation_time: 10
 servings: 4
 tags:  [spinach]
 images:
-		 - image_img: creamed-spinach-recipe-1-84443.jpg
+ - image_img: creamed-spinach-recipe-1-84443.jpg
 	image_alt: creamed-spinach-recipe-1-84443
  - image_img: creamed-spinach-recipe-2-75836.jpg
 	image_alt: creamed-spinach-recipe-2-75836
