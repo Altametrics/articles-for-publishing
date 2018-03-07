@@ -51,9 +51,7 @@ directions:
   - step: Add the sugar and blend it well into the yolks.
   - step: Add the water and vanilla and combine well with the egg yolk mixture.
 ---
- <p>Do you ever remember being a kid at Ruby Tuesdays? Those juicy burgers and sweet, creamy milkshakes. My mouth's watering just thinking about them.</p><!--more-->
+<p>Do you ever remember being a kid at Ruby Tuesdays? Those juicy burgers and sweet, creamy milkshakes. My mouth's watering just thinking about them.</p><!--more-->
 <p>A fan&nbsp;favorite and trademarked item is their Strawberry Tallcake. Couples go to order this with two spoons rather than one as a special treat. It's pretty big so even if you're just with friends this is a dessert you might want to share.</p>
 <p>This recipe brings back to life those childhood and young adulthood memories by calling for a sponge cake, strawberry mousse, and more strawberries.</p>
 <p>Follow the recipe below to recreate this magical dessert for friends, family, or that special someone.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
