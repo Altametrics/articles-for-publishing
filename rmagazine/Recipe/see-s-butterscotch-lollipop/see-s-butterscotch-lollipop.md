@@ -5,16 +5,28 @@ date: 2018-03-09
 type: article
 sponsor: 
 featured: true
-category: 
+category: ind
 
 author: Neal Eisler
 author_url: 
-headline: SEE'S Butterscotch Lollipop
+headline: See's Butterscotch Lollipop
 subheadline: 
 
+image_1_name: sees-lollipop-recipe-clone-11314
+image_1_caption: sees-lollipop-recipe-clone-11314
+image_1_img: sees-lollipop-recipe-clone-11314.jpg
+image_1_alt: sees-lollipop-recipe-clone-11314
+image_1_title: sees-lollipop-recipe-clone-11314
 preparation_time: 20
 servings: 12
-tags:  []
+tags:  [candy, sweet, butterscotch]
+images:
+ - image_img: butterscotch-recipe-68975.jpg
+   image_alt: butterscotch-recipe-68975
+ - image_img: butter-for-candy-recipe-60506.jpg
+   image_alt: butter-for-candy-recipe-60506
+ - image_img: vanilla-addition-for-recipe-88745.jpg
+   image_alt: vanilla-addition-for-recipe-88745
 ingredients:
   - ingredient_name:      vegetable shortening
   - ingredient_name:      granulated sugar
@@ -28,7 +40,12 @@ ingredients:
   - ingredient_name:      fine graham cracker crumbs
 
 directions:
-  - step: 
+  - step: Combine the first four ingredients in a saucepan over medium heat. Stir until the sugar has dissolved.
+  - step: Let the mixture boil until it reaches 310 degrees F on a cooking thermometer (this is called the hard-crack stage), or until a small amount dropped in cold water separates into hard, brittle threads.
+  - step: Stir in the vanilla, the remove the candy from the heat.
+  - step: Coat the molds with nonstick spray and pour the mixture in. (If you are using shot glasses, be sure to cool the mixture first so that the glass won
+  - step: Place a small piece of aluminum foil over each mold and press a lollipop stick or popsicle stick in the center.
+  - step: When cool, remove the lollipops from molds.
 ---
 <p>When Charles A. See opened his first See's Candy shop in the heart of Los Angeles in 1921, he used passed down recipes from his mom and embellished every box with an image of her.&nbsp;</p><!--more-->
 <p>She may have passed away in 1939, but her memory goes on with every box of chocolates sent out. The other surprising fact about See's candies is that their workers hand-dip most of their candy even with the amount of automation that's taken over.</p>
