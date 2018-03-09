@@ -28,16 +28,12 @@ images:
  - image_img: vanilla-addition-for-recipe-88745.jpg
    image_alt: vanilla-addition-for-recipe-88745
 ingredients:
-  - ingredient_name:      vegetable shortening
-  - ingredient_name:      granulated sugar
-  - ingredient_name:      egg
-  - ingredient_name:      salt
-  - ingredient_name:      peanut butter
-  - ingredient_name:      old-fashioned Quaker oats
-  - ingredient_name:      all-purpose flour
-  - ingredient_name:      peanut butter
-  - ingredient_name:      powdered sugar
-  - ingredient_name:      fine graham cracker crumbs
+  - ingredient_name: 1 cup     granulated sugar
+  - ingredient_name: 1 cup     heavy cream
+  - ingredient_name: 3 tablespoons     light corn syrup
+  - ingredient_name: 2 tablespoons     butter or margarine
+  - ingredient_name: 1 teaspoon     vanilla extract
+  - ingredient_name:      Nonstick spray
 
 directions:
   - step: Combine the first four ingredients in a saucepan over medium heat. Stir until the sugar has dissolved.
@@ -47,6 +43,7 @@ directions:
   - step: Place a small piece of aluminum foil over each mold and press a lollipop stick or popsicle stick in the center.
   - step: When cool, remove the lollipops from molds.
 ---
-<p>When Charles A. See opened his first See's Candy shop in the heart of Los Angeles in 1921, he used passed down recipes from his mom and embellished every box with an image of her.&nbsp;</p><!--more-->
+	
+ <p>When Charles A. See opened his first See's Candy shop in the heart of Los Angeles in 1921, he used passed down recipes from his mom and embellished every box with an image of her.&nbsp;</p><!--more-->
 <p>She may have passed away in 1939, but her memory goes on with every box of chocolates sent out. The other surprising fact about See's candies is that their workers hand-dip most of their candy even with the amount of automation that's taken over.</p>
 <p>For this recipe though, there is no dipping involved. One of See's most popular sweets is their chocolate, peanut butter and butterscotch flavors of rectangular lollipops. The fan favorite is butterscotch, and our recipe below will help you create your very own clone of this 50-year-old recipe.</p>
