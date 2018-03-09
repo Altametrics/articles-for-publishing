@@ -1,7 +1,7 @@
 ---
 layout: detail_news
 
-date: 2018-03-08
+date: 2018-03-09
 type: article
 sponsor:
 featured: true
@@ -18,4 +18,4 @@ image_1_img: koala500x800-44269.png
 image_1_alt: koala500x800-44269
 image_1_title: koala500x800-44269
 ---
- <p>test 1 march 8th body for all to see</p><!--more-->
+<p>test 1 march 8th body for all to see</p><!--more-->
