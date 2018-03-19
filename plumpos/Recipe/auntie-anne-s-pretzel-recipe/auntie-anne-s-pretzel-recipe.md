@@ -43,10 +43,10 @@ directions:
   - step: Make a bath for the pretzels by combining the baking soda with the warm water and stir until baking soda is mostly dissolved.
 ---
 	
-<span style="color: #444444\. font-family: Open Sans, Arial, Helvetica, sans-serif;">Auntie Anne's is well known for their soft, doughy pretzels served around the country. What many people don't know is how it all started.</span>
+Auntie Anne's is well known for their soft, doughy pretzels served around the country. What many people don't know is how it all started.
 
-<!--more-->pan style="color: #444444\. font-family: Open Sans, Arial, Helvetica, sans-serif;">At the heart of pretzel country in 1988\. the first store opened at a Pennsylvanian Amish farmers' market. Today, there are over 50\. stores and the pretzel recipe that started it all is one of the most widely searched on the internet. Many have tried to replicate the magic of Auntie Anne's, but few have succeeded.</span>
+<!--more-->At the heart of pretzel country in 1988\. the first store opened at a Pennsylvanian Amish farmers' market. Today, there are over 50\. stores and the pretzel recipe that started it all is one of the most widely searched on the internet. Many have tried to replicate the magic of Auntie Anne's, but few have succeeded.
 
-<span style="color: #444444\. font-family: Open Sans, Arial, Helvetica, sans-serif;">What makes that perfect dough is thought to be bread flour, suggested by many on the web but in our recipe, we found a better solution with all-purpose flour. And, rather than use honey to sweeten the dough, we've seen that powdered sugar works great to get that perfect sweetness in the mixture.</span>
+What makes that perfect dough is thought to be bread flour, suggested by many on the web but in our recipe, we found a better solution with all-purpose flour. And, rather than use honey to sweeten the dough, we've seen that powdered sugar works great to get that perfect sweetness in the mixture.
 
-<span style="color: #444444\. font-family: Open Sans, Arial, Helvetica, sans-serif;">Before you get started, there is a critical decision for you to make, salted or cinnamon sugar-coated. Check out the steps below to nail this mouth-watering recipe.</span>
+Before you get started, there is a critical decision for you to make, salted or cinnamon sugar-coated. Check out the steps below to nail this mouth-watering recipe.
