@@ -39,7 +39,7 @@ directions:
 	
 Wendy's Friday, better known as "the Frosty" has a long history being a favorite across America. It's creation came when Dave Thomas, founder of Wendy's, requested Borden's dairyman John Bowers to invent the milky concoction.
 
-<!--more-->It was served for the first time in 196\. with only one flavor that was a combination of chocolate and vanilla. Concerned the sweet chocolate flavor overpowered Wendy's burgers and fries, a vanilla flavor got added to the menu in 2006.
+<!--more-->It was served for the first time in 1969. with only one flavor that was a combination of chocolate and vanilla. Concerned the sweet chocolate flavor overpowered Wendy's burgers and fries, a vanilla flavor got added to the menu in 2006.
 
 Our recipe isn't the exact thing but comes close to nailing the mark. One sip and you'll experience the enjoyment one gets when they order the Frosty at any Wendy's restaurant.
 
