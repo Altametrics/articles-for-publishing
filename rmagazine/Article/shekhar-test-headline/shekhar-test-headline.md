@@ -20,3 +20,7 @@ image_1_title: shekharawa-53415
 ---
 
 Th<!--more-->ere are many ways to get your data into DataTables, and if you are working with seriously large databases, you might want to consider using the server-side options that DataTables provides. With server-side processing enabled, all paging, searching, ordering actions that DataTables performs are handed off to a server where an SQL engine (or similar) can perform these actions on the large data set (after all, that's what the database engine is designed for!). As such, each draw of the table will result in a new Ajax request being made to get the required data.
+
+{% picture article_top abstract_blue_3-wallpaper-1920x1080-77529.jpg class="img-responsive" alt="abstract_blue_3-wallpaper-1920x1080-77529" %}
+
+test desc
