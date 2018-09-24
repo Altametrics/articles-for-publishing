@@ -17,7 +17,7 @@ image_1_caption: noosa-Honey-Yoghurt-Copycat-Recipe-80537
 image_1_img: Noosa-Honey-Yoghurt-Copycat-Recipe-80537.jpg
 image_1_alt: noosa-Honey-Yoghurt-Copycat-Recipe-80537
 image_1_title: noosa-Honey-Yoghurt-Copycat-Recipe-80537
-preparation_time: 7
+preparation_time: 420
 servings: 11
 tags:  [Instant, Pot, Yogurt]
 images: 
@@ -65,11 +65,59 @@ ingredients:
   - ingredient_name:      
   - ingredient_name:      
   - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
+  - ingredient_name:      
   - ingredient_name: 8 Cups     Whole, Low, or Fat Free Milk
+  - ingredient_name:      
+  - ingredient_name:      
   - ingredient_name: 2 Cups     Heavy Cream
   - ingredient_name:      
   - ingredient_name: 4 Tablespoons      Noosa Plain or Honey Yogurt, Starter
-  - ingredient_name:      
   - ingredient_name: 1 1/2 Tablespoons      Gelatine 
   - ingredient_name:      
   - ingredient_name: 1/2 Cup     Sugar
