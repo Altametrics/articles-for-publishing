@@ -39,13 +39,13 @@ ingredients:
   - ingredient_name:      
   - ingredient_name: 1/2 Teaspoon     Salt
   - ingredient_name:      
-  - ingredient_name: 1/8 Teapoon     Pepper
+  - ingredient_name: 1/8 Teaspoon     Pepper
   - ingredient_name:      
   - ingredient_name: 1/4 Cup     Milk
   - ingredient_name:      
   - ingredient_name: 1/2 Cup     Mayonnaise
   - ingredient_name:      
-  - ingredient_name: 1/4 cup Buttermilk     Buttermilk
+  - ingredient_name: 1/4 Cup      Buttermilk
   - ingredient_name:      
   - ingredient_name: 1 1/2 Tablespoons     White vinegar
   - ingredient_name:      
@@ -62,4 +62,4 @@ There&rsquo;s really nothing complicated about the word &ldquo;coleslaw,&rdquo; 
 
 <!--more-->To gather more information about this vegetable and its health benefits, just perform a simple Google search and you&rsquo;ll be impressed. To mention a few benefits in brief &ndash; cabbage is good for the skin, it improves digestion, fights inflammation, and protects the immune system.
 
-Now, the trick with cabbage is to either have it raw or to cook it for the shortest time possible, ideally 1-3 minutes. The idea here is to avoid killing all its wonderful nutrients through a lot of heat. Requiring relatively low prep, raw cabbage can be used to make a salad, one example being KFC Coleslaw. Below is a KFC Coleslaw Copycat Recipe, enjoy.
+Now, the trick with cabbage is to either have it raw or to cook it for the shortest time possible, ideally 1-3 minutes. The idea here is to avoid killing all its wonderful nutrients through a lot of heat. Requiring relatively low prep, raw cabbage can be used to make a salad, one example being KFC Coleslaw; below is a KFC Coleslaw Copycat Recipe, enjoy.
