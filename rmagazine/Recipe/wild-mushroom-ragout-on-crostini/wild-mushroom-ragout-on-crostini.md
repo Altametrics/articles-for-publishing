@@ -1,7 +1,7 @@
 ---
 layout: detail_recipe
 
-date: 2018-10-15
+date: 2018-10-16
 type: article
 sponsor:
 featured: true
