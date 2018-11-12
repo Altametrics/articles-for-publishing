@@ -19,8 +19,7 @@ image_1_alt: rawpixel-620227-unsplash-74217
 image_1_title: rawpixel-620227-unsplash-74217
 ---
 
-When done right, employee promotion can 
-[boost company growth](https://www.snacknation.com/blog/employee-engagement-ideas/).
+When done right, employee promotion can boost company growth.
 
 <!--more-->On The Border Mexican Grill &amp; Cantina has promoted&nbsp;Rebecca Miller&nbsp;to Senior Vice President of Marketing. In her new role, Miller will oversee all Marketing initiatives as well as Culinary Innovation, Guest Relations and Catering. She reports to Matt Hood, President and CEO of On The Border.
 
