@@ -10,7 +10,7 @@ category: workforce
 author:  
 author_url:
 headline: Churchs Chicken Employee Reaches Unlikely Milestone in the Workplace
-subheadline: Long-term employee recognized with surprise celebration
+subheadline: Long-term Employee Recognized with Surprise Celebration
 
 image_1_name: churchs-Chicken-Employee-Reaches-Unlikely-Milestone-in-the-Workplace-27226
 image_1_caption: churchs-Chicken-Employee-Reaches-Unlikely-Milestone-in-the-Workplace-27226
@@ -19,11 +19,11 @@ image_1_alt: churchs-Chicken-Employee-Reaches-Unlikely-Milestone-in-the-Workplac
 image_1_title: churchs-Chicken-Employee-Reaches-Unlikely-Milestone-in-the-Workplace-27226
 ---
 
-A high employee turnover is not healthy for any business as it can affect morale, create unease, and cost the business a lot in terms of time and money.
+A high employee turnover rate is not healthy for any business as it can affect morale, create unease, and cost the business a lot in terms of time and money.
 
 <!--more-->It is rare for companies to be able to retain employees longer than five or 10 years. But this is not the case with&nbsp;
-[Church&rsquo;s Chicken](http://www.churchs.com/). The restaurant chain continues to&nbsp;
-[celebrate long-term employees](http://www.snacknation.com/guides/definitive-guide-employee-engagement/)&nbsp;like Diane Liddell, who recently had a 40-year anniversary with the company. With her high energy, outgoing personality and a can-do attitude, Liddell has made a dramatic difference not just with guests and her employer, but also in the lives of employees through her motto: &ldquo;never ask an employee to do something that you would not do.&rdquo;
+[Church&rsquo;s Chicken](http://www.churchs.com/). The restaurant chain continues to 
+[celebrate long-term employees](http://www.snacknation.com/guides/definitive-guide-employee-engagement/) like Diane Liddell, who recently had a 40-year anniversary with the company. With her high energy, outgoing personality and a can-do attitude, Liddell has made a dramatic difference not just with guests and her employer, but also in the lives of employees through her motto: &ldquo;never ask an employee to do something that you would not do.&rdquo;
 
 Church&rsquo;s&reg;&nbsp;proudly celebrated Liddell&rsquo;s success with a surprise bash at the Vicksburg restaurant in Jackson, MS. All the Restaurant Managers in her market, family and the other Market Leaders from Baton Rouge and New Orleans joined to honor her accomplishments.
 
