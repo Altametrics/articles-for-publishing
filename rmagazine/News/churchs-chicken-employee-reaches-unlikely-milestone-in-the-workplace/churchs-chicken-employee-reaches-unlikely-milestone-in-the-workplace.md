@@ -1,7 +1,7 @@
 ---
 layout: detail_news
 
-date: 2018-11-12
+date: 2018-11-19
 type: article
 sponsor:
 featured: true
@@ -10,7 +10,7 @@ category: workforce
 author:  
 author_url:
 headline: Churchs Chicken Employee Reaches Unlikely Milestone in the Workplace
-subheadline: Long-term Employee Recognized with Surprise Celebration
+subheadline: Long-Term Employee Recognized with Surprise Celebration
 
 image_1_name: churchs-Chicken-Employee-Reaches-Unlikely-Milestone-in-the-Workplace-27226
 image_1_caption: churchs-Chicken-Employee-Reaches-Unlikely-Milestone-in-the-Workplace-27226
